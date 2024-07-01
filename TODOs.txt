@@ -1,0 +1,7 @@
+1. Install Azure Function core tools from this Download link: https://go.microsoft.com/fwlink/?linkid=2174087
+2. Install VS Extension called Azurite
+3. Install VS Extension called Azure Resources
+4. Install VS Extension called Azure Functions
+5. Reboot and then open command line.  Type  'pip install azure-functions'   This will install Python library for Azure Functions
+6. Google a tool called Postman.  You should be able to download and install the Free version.  If possible, don't register the software
+
